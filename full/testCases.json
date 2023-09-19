@@ -1,0 +1,8 @@
+[
+  {"testName": "test_initial_speed", "speed":"0", "expectedDeg":"-120deg", "result": "FAIL"},
+  {"testName": "test_30_speed", "speed":"30", "expectedDeg":"-105deg", "result": "FAIL"},
+  {"testName": "test_60_speed", "speed":"60", "expectedDeg":"-90deg", "result": "FAIL"},
+  {"testName": "test_90_speed", "speed":"90", "expectedDeg":"-75deg", "result": "FAIL"},
+  {"testName": "test_120_speed", "speed":"120", "expectedDeg":"-60deg", "result": "FAIL"},
+  {"testName": "test_200_speed", "speed":"200", "expectedDeg":"-10deg", "result": "FAIL"}
+]
