@@ -2,7 +2,7 @@
 from selenium import webdriver
 from time import sleep
 
-automotiveSpeedometerUrl = "file:///C:/Users/avilagtz/Documents/Coding/Python/Automation_course/carSpeedometer/dist/index.html"
+automotiveSpeedometerUrl = "file:///C:/Users/avilagtz/Documents/Coding/Python/Automation_course/basic/carSpeedometer/dist/index.html"
 
 speedInputXpath = "/html/body/div[2]/input"
 speedInputSubmitXpath = "/html/body/div[2]/button"
